@@ -46,3 +46,15 @@ num2 = 5
 
 adder_subtractor = (num1 + num2, num1 - num2)
 print(adder_subtractor)
+
+sum((1, 2, 3, 4, 5))
+# add up all the values
+# 15
+
+min((1, 2, 3, 4, 5))
+# return min value
+# 1
+
+max((1, 2, 3, 4, 5))
+# return max value
+# 5
