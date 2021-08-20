@@ -16,4 +16,6 @@ css/*.css
 ex_files
 Thumbs.db
 /.idea/
+
 venv
+__pycache__
